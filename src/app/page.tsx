@@ -81,7 +81,7 @@ export default function LandingPage() {
             {
               title: "Crop Rotation",
               description: "Rotating crops annually to maintain soil fertility and reduce pest buildup naturally",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764885871164-tsnv9tnc.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1765242365742-irvb3akb.jpg",
               imageAlt: "Healthy soil management"
             },
             {
